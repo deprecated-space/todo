@@ -1,6 +1,6 @@
 # To Learn
 
-- ~~typescript / coffeescript~~ ([「你能用原生js写而且不觉得别扭的话，一个也没必要学](https://www.zhihu.com/question/20833518/answer/16376276)，[前端工程师用 JavaScript」，「C#工程师用 TypeScript，Ruby工程师用 CoffeeScript，Java工程师用Dart。」](https://www.zhihu.com/question/25421196/answer/30739149))
+- ~~typescript / coffeescript~~ ([「你能用原生js写而且不觉得别扭的话，一个也没必要学」](https://www.zhihu.com/question/20833518/answer/16376276)，[前端工程师用 JavaScript，C#工程师用 TypeScript，Ruby工程师用 CoffeeScript，Java工程师用Dart。」](https://www.zhihu.com/question/25421196/answer/30739149))
 - ES6
 - backbone, vue, react
 - node module by npm (tianqi module)
