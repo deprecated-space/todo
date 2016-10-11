@@ -1,6 +1,6 @@
 # To Learn
 
-- typescript / coffeescript
+- ~~typescript / coffeescript~~ ([你能用原生js写而且不觉得别扭的话，一个也没必要学](https://www.zhihu.com/question/20833518/answer/16376276))
 - ES6
 - backbone, vue, react
 - node module by npm (tianqi module)
