@@ -42,7 +42,7 @@
 
 # To Buy
 
-  - Mac（代沟港版）
+  - Mac（代购港版）
   - iPhone
 
 
