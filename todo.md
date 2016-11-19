@@ -39,7 +39,7 @@
   - 时间插件
   - OA 验证码自动填充插件
 - 前端操作 Excel <https://github.com/SheetJS/js-xls>
-- 做一个职位在地图上能分部的功能（idea 来自<https://www.v2ex.com/t/319660#reply7>）
+- 做一个职位在地图上能分布的功能（idea 来自<https://www.v2ex.com/t/319660#reply7>）
 
 # To Buy
 
