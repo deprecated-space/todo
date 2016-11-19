@@ -38,7 +38,7 @@
 	- [chrome 扩展写法](http://www.cnblogs.com/pingfan1990/p/4560215.html)
   - 时间插件
   - OA 验证码自动填充插件
-- 前端操作 Excel <https://github.com/SheetJS/js-xls>
+- ~~前端操作 Excel <https://github.com/SheetJS/js-xls>~~（2016.11.19 感觉文件操作还是后端方便，有需求了再搞）
 - 做一个职位在地图上能分布的功能（idea 来自<https://www.v2ex.com/t/319660#reply7>）
 
 # To Buy
