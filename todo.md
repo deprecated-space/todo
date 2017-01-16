@@ -15,6 +15,8 @@
 - 学习五笔 & 正确的打字姿势
 - vim
 - English
+- Shadowsocks / VPN
+- CSS Modules
 
 
 # To Code
@@ -25,6 +27,7 @@
   - 分享功能 （necessary?）
   - 样式重写 （图片 hover 变换 border）
   - 添加表情回复功能（necessary?）
+  - 增加代码一键复制的功能
 - canvas
   - 实现图片操作 <http://www.html5tricks.com/html5-screenshot.html>
 - QQ 模拟登录
@@ -52,3 +55,4 @@
 - 招行信用卡
 - 锻炼, 健身, 跑步
 - 学点经济学, 炒股
+- 拆电脑，学习硬件基本知识（宜家买螺丝刀）
