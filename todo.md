@@ -33,7 +33,7 @@
 - QQ 模拟登录
 	- <http://www.jianshu.com/p/77dbd967fdd7>
 	- <https://www.v2ex.com/t/186853>
-	- p_skey（每次登录都有变化，其他三个不变），p_uin，skey，uin
+	- p_skey（每次登录都有变化，其他三个不变），p_uin，skey，uin（2025.02.08 试了下，直接 copy 页面登录后的 cookie 就能进行模拟请求了，没有 p_skey 动态生成的逻辑了）
 - ~~socket.io.js~~（已粗略学习）
 - chrome 扩展
 	- [Chrome 扩展及应用开发](http://www.ituring.com.cn/minibook/950)
